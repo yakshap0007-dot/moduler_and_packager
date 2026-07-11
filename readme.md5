@@ -1,0 +1,53 @@
+--> Project name :- OOP Wrapper
+
+This is a simple Employee Management System project developed using Python and Object-Oriented Programming (OOP) concepts.
+The project allows users to create and manage details of Person, Employee, and Manager through a menu-driven program.
+
+--> Features:-
+- Create Person details
+- Create Employee details
+- Create Manager details
+- Show stored details
+- Exit the program safely
+
+--> OOP Concepts Used
+- Class and Object
+- Inheritance
+- Encapsulation
+- Constructor
+- Destructor
+- Method Overriding
+- super() function
+- Getter and Setter methods
+- issubclass() function
+
+
+1. Person Class
+Stores basic information such as:
+- Name
+- Age
+
+2. Employee Class
+Inherits from Person class and stores:
+- Employee ID
+- Salary
+
+3. Manager Class
+Inherits from Employee class and stores:
+- Department
+
+--> Menu Options:-
+
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+--> Conclusion:-
+The Employee Management System project successfully demonstrates the implementation of major Object-Oriented Programming concepts in Python. 
+The project provides a simple and effective way to manage employee information while improving understanding of OOP principles such as inheritance, encapsulation, method overriding, constructors, destructors, and polymorphism.
+This project serves as a good example for beginners to understand how OOP concepts can be applied in real-world applications.
+
+
+Yaksha patel:-
