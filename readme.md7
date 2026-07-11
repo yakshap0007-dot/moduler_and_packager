@@ -1,4 +1,4 @@
-Project name :- Multi Utility Toolkit
+Project name :- Moduler and packager
 
 Multi Utility Toolkit is a Python menu-driven application that demonstrates the use of different Python modules and packages. 
 This project combines multiple utilities such as date and time operations, mathematical calculations, random data generation, UUID generation, and file handling in a single application.
